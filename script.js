@@ -27,7 +27,7 @@ let sticker = function (name) {
 }
 
 setTimeout(refreshPage, 1000);
-function refreshPage(){
+function refreshPage() {
     location.reload();
 }
 
